@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "message": "vpn issue",
+      "attention": true,
+      "tech": "VeeraBabu",
+      "date": "2020-09-01T22:23:29.047Z",
+      "id": 1
+    },
+    {
+      "message": "laptop not working properly - 0522",
+      "attention": false,
+      "tech": "JohnDoe",
+      "date": "2020-09-01T22:24:11.350Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Veera",
+      "lastName": "Babu"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 3
+    }
+  ]
+}
